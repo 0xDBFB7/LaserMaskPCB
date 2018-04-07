@@ -1,3 +1,5 @@
+
+
 echo "repairing PDF files"
 ./fix_pdfs.sh
 
@@ -51,6 +53,12 @@ inkscape \
 	--verb=FileQuit 
 
 inkscape --without-gui \
+	--file="input_files/fixed_board_top.pdf" \
+	--export-dpi=500 \
+	--export-id="g12" \
+	--export-png="output_files/fixed_board_top.png"
+
+inkscape --without-gui \
 	--file="input_files/fixed_board_top_inverted.pdf" \
 	--export-dpi=500 \
 	--export-id="g12" \
@@ -62,5 +70,6 @@ inkscape --without-gui \
 	--export-id="g12" \
 	--export-png="output_files/fixed_board_bottom_inverted.png"
 
-python drills.py
+python via_drills.py
+python locator_drills.py
 ./binarize.sh

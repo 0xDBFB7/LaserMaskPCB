@@ -1,0 +1,40 @@
+Matte paint on copper:
+
+100mm - 0.2 - incomplete removal.
+500mm - 0.1 - dot size has a big effect on the amount of residue that remains.
+1000mm - 0.1 - when fully dried, you can brush the residue off.
+
+Paint must be fully dried before etching - 70c for 20 minutes seems to do it.
+
+White masking tape on copper:
+
+500mm - dot size 0.1 - Traces gummed with adhesive.
+800 - Same.
+1200 - right out. Completely covered traces.
+
+Kapton Polyimide on copper:
+
+1000 "cuts" with a thick black trace - but does not cleanly go through.
+
+Even 100/100 is unable to puncture reliably. Higher power densities appear 
+to just cause a buildup of white material.
+
+Dry film negative resist:
+
+1500 - 100 - nice purple color, but it burned right through.
+2000 - 40 - Works really well.
+2000 - 30 - 0.08 Again, works really well. 
+
+Three minutes in a tablespoon of washing soda developer seems to work.
+
+20 seconds at "rayon" seems to fuse.
+
+Buna-N rubber:
+
+300 - 100 - 0.08 - not all the way through - pretty smokey.
+100 - 100 - 0.08 - 2 passes - Still only a quarter of the way through.
+100 - 100 - 0.08 - 7 passes - Only half way through.
+20 - 100 = 0.08 - 2 passes - most of the way through, but the Buna changed
+texture completely in a manner that I think makes it unsuitable for gaskets.
+
+
