@@ -21,7 +21,7 @@ With the laser cutter, we were able to build a complete, populated PCB in under 
 
 It still isn't worth it.
 
-####Code
+#### Code
 
 Like CNC trace milling, Marco produced his boards using a single, laser-width isolation, using a vector file of his board. Because of the small dot size of the laser cutter, I found this very difficult to solder, even with a reflow oven. I wanted something with a configurable isolation region.
 
@@ -45,7 +45,7 @@ To use, just:
 	13. Profit!
 
 
-####Process parameters
+#### Process parameters
 
 I have several pages of notes that I have yet to transfer into a human-readable form.
 
