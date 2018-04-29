@@ -1,5 +1,5 @@
 ![Test 1](/test_1.jpg)
-![Test 2](/test_1.jpg)
+![Test 2](/test_2.jpg)
 
 ### Some background
 
